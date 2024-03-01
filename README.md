@@ -1,0 +1,2 @@
+# mindoc
+mindoc
